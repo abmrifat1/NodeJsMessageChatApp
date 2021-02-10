@@ -1,4 +1,4 @@
 require('nnode');
 require('./server');
 
-console.log('init');
+console.log('init')
